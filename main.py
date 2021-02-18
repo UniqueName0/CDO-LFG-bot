@@ -3,7 +3,7 @@ from discord.ext import commands, tasks
 import sqlite3
 import time
 
-token = 'ODExOTQ5NDk5MDA5OTkwNjY3.YC5o5Q.pj4i1RKvHUkHZW57AfLnD4-GpCM'
+token = "token"
 
 intents = discord.Intents.default()
 intents.members = True
